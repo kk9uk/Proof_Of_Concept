@@ -1,2 +1,1 @@
-# Proof_Of_Concept
-Time to be smart!
+# YOU KNEW THERE WON'T BE ANY README...
