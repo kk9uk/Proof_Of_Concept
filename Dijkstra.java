@@ -3,7 +3,7 @@ import lombok.experimental.UtilityClass;
 import java.util.*;
 
 @UtilityClass
-class Dijkstra {
+public class Dijkstra {
     public Map<Integer, Integer> dijkstra(int n, List<List<Integer>> edges, int src) {
         // TODO: checks
 
