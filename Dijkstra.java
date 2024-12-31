@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Dijkstra {
+public class Dijkstra {
     public Map<Integer, Integer> dijkstra(int n, List<List<Integer>> edges, int src) {
         // adj list
         HashMap<Integer, List<int[]>> adj = new HashMap<>();
