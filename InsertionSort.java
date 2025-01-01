@@ -7,7 +7,7 @@ public class InsertionSort {
      * It works by repeatedly taking an element from the unsorted portion,
      * and inserting it into its correct position in the sorted portion of the list. */
 
-    public List<List<KVPair>> insertionSort(List<KVPair> list) {
+    public static List<List<KVPair>> insertionSort(List<KVPair> list) {
         List<List<KVPair>> res = new ArrayList<>();
         for (int i = 0; i < list.size(); i++) {
             for (int j = i; j > 0; j--) {
