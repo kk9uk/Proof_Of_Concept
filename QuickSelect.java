@@ -8,6 +8,11 @@ public class QuickSelect {
 
     /* This is an in-place, randomized, and iterative implementation of Quick Select, by kk9uk. */
 
+    /* Credit to Prof. Yufei Tao, who gave lectures so well, such that I got this at first try in one go, two years later.
+     * Here's his take on recursion, which instilled in me a profound intuition:
+     *
+     * When dealing with a subproblem, consider it solved, as if by magic, and use the subproblem's output to continue the algorithm design. */
+
     public static int quickSelect(int[] arr, int k) {
         if (arr == null) throw new IllegalArgumentException("quickSelect(): arr shouldn't be null");
         if (1 > k || k > arr.length) throw new IllegalArgumentException("quickSelect(): k=" + k + " should be in [1, arr.length=" + arr.length + "]");
