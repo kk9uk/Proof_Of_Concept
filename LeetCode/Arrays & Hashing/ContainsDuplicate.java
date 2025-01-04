@@ -1,5 +1,3 @@
-package LeetCode;
-
 import java.util.HashSet;
 
 public class ContainsDuplicate {

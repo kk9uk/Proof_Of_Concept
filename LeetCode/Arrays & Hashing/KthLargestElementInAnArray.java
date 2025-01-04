@@ -1,5 +1,3 @@
-package LeetCode;
-
 import java.util.Random;
 
 public class KthLargestElementInAnArray {
