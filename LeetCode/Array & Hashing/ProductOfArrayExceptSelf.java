@@ -1,5 +1,3 @@
-package LeetCode;
-
 public class ProductOfArrayExceptSelf {
     public int[] productExceptSelf(int[] nums) {
         int[] res = new int[nums.length];
