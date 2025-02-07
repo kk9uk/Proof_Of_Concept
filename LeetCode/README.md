@@ -17,3 +17,10 @@
 
 ## Two Pointer
 - while (l < r)
+
+## Backtracking
+- make a decision
+- for i = currI
+  - add
+  - subproblem()
+  - remove
