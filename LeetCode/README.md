@@ -24,3 +24,12 @@
   - add
   - subproblem()
   - remove
+
+## Linked List
+- FIFO
+- fast & slow ptr
+
+## Tree
+- subproblem(subtree)
+
+## Trie
