@@ -33,3 +33,7 @@
 - subproblem(subtree)
 
 ## Trie
+
+## Greedy
+- forward/backward
+- look for better
