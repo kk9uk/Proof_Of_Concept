@@ -37,3 +37,7 @@
 ## Greedy
 - forward/backward
 - look for better
+
+## Interval
+- non-overlapping: (new.end < old.start) || (old.end < new.start)
+- sort by start?
