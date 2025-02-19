@@ -41,3 +41,8 @@
 ## Interval
 - non-overlapping: (new.end < old.start) || (old.end < new.start)
 - sort by start?
+
+## Dynamic Programming
+- spot the recursive structure (what are the variables?)
+- solve the subproblems in a topological order
+- memorize results to avoid recomputing
