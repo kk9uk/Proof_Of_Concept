@@ -46,3 +46,6 @@
 - spot the recursive structure (what are the variables?)
 - solve the subproblems in a topological order
 - memorize results to avoid recomputing
+
+## Graph
+- be careful...
