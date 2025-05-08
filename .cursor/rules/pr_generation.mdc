@@ -1,0 +1,41 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+## Background Description (Why)
+
+<!-- Describe the background of this PR. Why is this PR needed? What problem does it solve? -->
+
+## Implementation Approach (How)
+
+<!-- Describe the implementation methods and architectural decisions made. -->
+
+## Actual Changes (What Was Done)
+
+<!-- Highlight the main changes implemented in this merge request. Specify what you changed and why. -->
+
+- [ ] Feature/Change 1  
+- [ ] Feature/Change 2  
+
+### Screenshots or Video References  
+
+<!-- If applicable, add design references (links), screenshots, or screen recordings. -->  
+
+### Test Verification  
+
+<!-- List the verified test scenarios. Include edge cases. -->  
+
+- [ ] Test Scenario 1  
+- [ ] Test Scenario 2  
+- [ ] Test Scenario 3  
+
+<!-- Add any additional testing notes for reviewers -->  
+
+## Additional Notes  
+
+<!-- Any information helpful to PR reviewers (e.g., known limitations, future todos) -->  
+
+## Related Links  
+
+<!-- Links related to this PR -->
